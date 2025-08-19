@@ -22,7 +22,7 @@ A complete task management system built with MongoDB, Express.js, React, and Nod
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/Sumit6307/Task_Manager_Assignment.git
 cd task-manager
 ```
 
@@ -44,7 +44,7 @@ npm install
 ```
 NODE_ENV=development
 PORT=5000
-MONGO_URI=mongodb://localhost:27017/taskmanager
+MONGO_URI= your_url
 JWT_SECRET=your_jwt_secret_here
 JWT_EXPIRE=30d
 JWT_COOKIE_EXPIRE=30
