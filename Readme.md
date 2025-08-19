@@ -50,6 +50,7 @@ JWT_EXPIRE=30d
 JWT_COOKIE_EXPIRE=30
 FILE_UPLOAD_PATH=./uploads
 MAX_FILE_UPLOAD=5000000
+
 ```
 
 **Frontend (.env):**
@@ -78,6 +79,7 @@ npm run dev
 ## Default Admin Account
 
 After first run, create an admin user through the registration page or directly in MongoDB.
+
 
 ## API Endpoints
 
